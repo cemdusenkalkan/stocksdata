@@ -1,0 +1,7 @@
+# .gitignore
+*.pyc
+*~
+*.DS_Store
+.env
+venv/
+__pycache__/
